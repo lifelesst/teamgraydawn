@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "giris.html",
+    "currentPage": "teamgraydawn.html",
     "name": "Team GrayDawn",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "teamgraydawn.html": {
+    "teamgraydawn2.html": {
       "settings": {
         "main": true,
         "title": "Team GrayDawn",
@@ -501,7 +501,7 @@
         }
       ]
     },
-    "giris.html": {
+    "teamgraydawn.html": {
       "settings": {
         "title": "Graydawn",
         "meta_descr": "Siteye Giris Ekrani"
